@@ -1,0 +1,2 @@
+# ZeroClickMaker
+ZeroClickMaker - учебный проект
